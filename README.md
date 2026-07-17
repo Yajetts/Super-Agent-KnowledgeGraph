@@ -442,10 +442,6 @@ superagent-kg/
 │   └── output_parser.py    # Response parsing
 ├── data/                    # Data storage
 │   └── chroma/             # ChromaDB persistence
-├── docs/                    # Documentation
-│   ├── GraphRAG_report.md  # GraphRAG evaluation
-│   ├── kg_report.md        # Knowledge graph evaluation
-│   └── Super-Agent_report_v2.md # System evaluation
 ├── dynamic_agents/          # Dynamic agent system
 │   ├── agent_generator.py  # Agent creation logic
 │   ├── agent_registry.py   # Agent lifecycle management
@@ -498,9 +494,7 @@ superagent-kg/
 │   ├── context_manager.py  # Context management
 │   └── task_analyzer.py    # Query analysis
 ├── tests/                   # Test suite
-├── .env.example             # Environment template
 ├── requirements.txt          # Python dependencies
-├── SETUP.md                 # Setup guide
 └── README.md                # This file
 ```
 
