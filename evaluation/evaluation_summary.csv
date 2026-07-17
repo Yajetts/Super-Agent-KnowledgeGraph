@@ -1,0 +1,28 @@
+Original Query,Retrieval Query,Graph-Only Similarity,Graph-Only Similarity (Original Query),Graph-Only Similarity (Retrieval Query),GraphRAG Similarity,GraphRAG Similarity (Original Query),GraphRAG Similarity (Retrieval Query),Similarity Improvement,Graph-Only Time (ms),GraphRAG Time (ms),Time Overhead (ms),Graph-Only Count,GraphRAG Count,Count Increase
+Assess risks of autonomous vehicles,List advantages and disadvantages of autonomous vehicles,0.3655,0.3655,0.3092,0.3866,0.3866,0.3325,0.0211,2175.77,6619.57,4443.80,29,36,7
+Analyze renewable energy markets,Business opportunities in renewable energy,0.4363,0.4363,0.4135,0.4163,0.4163,0.3999,-0.0201,72.85,1162.36,1089.51,29,39,10
+Research dangers of AI to cybersecurity,Analyze different kinds of cyber attacks orchestrated with AI,0.3173,0.3173,0.3002,0.3820,0.3820,0.3717,0.0647,73.98,2353.94,2279.95,29,37,8
+Develop a strategy for enterprise AI implementation,An example use-case of AI in a finance company,0.2825,0.2825,0.2759,0.3711,0.3711,0.3236,0.0886,81.87,2522.69,2440.82,29,39,10
+Analyze NVIDIA's performance in the US tech industry,Technology company competitive analysis,0.3214,0.3214,0.4142,0.3227,0.3227,0.4238,0.0012,87.06,1148.20,1061.14,29,38,9
+Evaluate adoption of Agentic AI in tech companies,Business applications of AI agents,0.3626,0.3626,0.3254,0.3922,0.3922,0.3640,0.0296,167.29,1097.76,930.48,29,38,9
+Develop a strategy for reducing carbon emissions in manufacturing,Net-zero manufacturing strategy,0.3587,0.3587,0.3338,0.3715,0.3715,0.3368,0.0127,51.32,1281.73,1230.41,29,39,10
+Analyze Netflix expansion into Southeast Asia,Growth opportunities for streaming platforms in Southeast Asia,0.2541,0.2541,0.2653,0.2654,0.2654,0.2758,0.0113,93.24,1259.73,1166.49,29,38,9
+Evaluate Starbucks market entry into Vietnam,Strategies for international coffee brands entering Vietnam,0.1988,0.1988,0.2306,0.2162,0.2162,0.2526,0.0173,61.25,1241.91,1180.66,29,38,9
+Assess cybersecurity risks for cloud-native companies,Security threats facing cloud-based organizations,0.4031,0.4031,0.4233,0.4049,0.4049,0.4347,0.0018,581.07,1071.18,490.11,29,36,7
+Evaluate blockchain adoption in supply chain management,Benefits of blockchain for supply chain transparency,0.2831,0.2831,0.2638,0.2954,0.2954,0.2668,0.0123,55.34,1256.19,1200.85,29,38,9
+Evaluate wearable health technology trends,Future developments in wearable healthcare devices,0.3181,0.3181,0.3204,0.3148,0.3148,0.3122,-0.0033,72.74,1113.93,1041.19,29,37,8
+Analyze AI-powered personalized learning systems,How AI is transforming personalized education,0.3326,0.3326,0.3416,0.3685,0.3685,0.3641,0.0359,54.37,1349.73,1295.36,19,28,9
+Develop a strategy for improving STEM education,Methods for increasing student engagement in STEM subjects,0.2602,0.2602,0.2283,0.2788,0.2788,0.2444,0.0186,67.16,1153.27,1086.11,29,39,10
+Analyze market entry strategies for fintech startups,Best approaches for launching a new financial technology company,0.2923,0.2923,0.3009,0.3190,0.3190,0.3323,0.0267,60.65,1375.60,1314.94,29,39,10
+Assess competitive threats in the food delivery industry,Challenges faced by online meal delivery platforms,0.3309,0.3309,0.3494,0.3277,0.3277,0.3466,-0.0032,61.63,1105.23,1043.60,29,37,8
+Develop a growth plan for a AI SaaS company,Scaling strategies for subscription-based AI software businesses,0.2873,0.2873,0.3116,0.3490,0.3490,0.3628,0.0618,54.18,1160.36,1106.18,29,39,10
+Evaluate opportunities in the digital payments market,Future growth drivers for cashless transaction platforms,0.2981,0.2981,0.3021,0.3039,0.3039,0.3157,0.0058,66.23,1093.98,1027.74,29,37,8
+Analyze expansion opportunities for ride-sharing services,Market growth strategies for mobility platforms,0.2897,0.2897,0.3472,0.3040,0.3040,0.3655,0.0143,55.42,1110.29,1054.87,29,39,10
+Assess the impact of generative AI on software development,How AI coding assistants are changing programming workflows,0.3304,0.3304,0.2948,0.3574,0.3574,0.3192,0.0270,53.05,1086.21,1033.16,29,38,9
+Analyze opportunities in autonomous vehicle technology,Business potential of self-driving transportation systems,0.3500,0.3500,0.3106,0.3659,0.3659,0.3228,0.0159,62.66,1434.12,1371.46,29,38,9
+Evaluate challenges in large-scale IoT deployments,Barriers to implementing enterprise Internet of Things networks,0.3208,0.3208,0.3312,0.3279,0.3279,0.3410,0.0071,51.29,1284.20,1232.90,29,38,9
+Develop a strategy for cloud migration,Best practices for moving enterprise systems to the cloud,0.2796,0.2796,0.2533,0.3131,0.3131,0.2955,0.0336,40.81,1315.41,1274.61,29,39,10
+Assess the role of AI in drug discovery,Machine learning applications in pharmaceutical research,0.3861,0.3861,0.3849,0.4079,0.4079,0.3799,0.0218,48.56,1201.26,1152.70,19,28,9
+Analyze healthcare workforce shortages,Causes of staffing gaps in healthcare systems,0.2723,0.2723,0.3011,0.2620,0.2620,0.2953,-0.0103,42.57,1088.70,1046.13,29,36,7
+Develop strategies to improve mental health access,Solutions for expanding mental healthcare services,0.2592,0.2592,0.2735,0.2793,0.2793,0.2836,0.0201,40.15,1099.27,1059.12,29,39,10
+Analyze circular economy adoption in manufacturing,Strategies for reducing industrial waste through resource reuse,0.2438,0.2438,0.2297,0.2610,0.2610,0.2539,0.0173,48.78,1215.22,1166.44,29,39,10

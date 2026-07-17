@@ -1,0 +1,11 @@
+task_id,baseline_agents,superagent_agents,asa_score,aue_score
+T1,"ResearchAgent, RiskAgent, StrategyAgent","MarketAnalysisAgent, MarketResearchAgent, MarketAnalysisAgent, FintechMarketResearchAgent, MarketTrendAnalysisAgent",50.00%,25.00%
+T10,"ResearchAgent, RiskAgent, StrategyAgent","SustainableManufacturingStrategyAgent, ManufacturingStrategyAgent, SemiconductorManufacturingStrategyAgent, ResearchAgent, StrategyAgent",100.00%,40.00%
+T2,"ResearchAgent, RiskAgent, StrategyAgent","BatteryRiskAnalysisAgent, BatterySafetyAgent, RiskAgent, SupplyChainRiskAnalysisAgent",100.00%,50.00%
+T3,"ResearchAgent, RiskAgent, StrategyAgent","ResearchAgent, HealthcareAIAssessmentAgent, HealthcareAIAnalysisAgent, HealthcareAIGovernanceAgent, HealthcareAIPolicyAnalysisAgent",100.00%,40.00%
+T4,"ResearchAgent, RiskAgent, StrategyAgent","HealthcareCloudRiskAnalysisAgent, CloudMigrationRiskAnalysisAgent, RiskAgent, HealthcareAIAssessmentAgent, CloudRiskAnalysisAgent",50.00%,20.00%
+T5,"ResearchAgent, RiskAgent, StrategyAgent","RenewableEnergyMarketAnalysisAgent, RenewableEnergyAnalysisAgent, RiskAgent, MarketAnalysisAgent, EmergingMarketsInvestmentAnalysisAgent",50.00%,20.00%
+T6,"ResearchAgent, RiskAgent, StrategyAgent","IndustrialRoboticsRiskAnalysisAgent, ResearchAgent, IndustrialAutomationRiskAnalysisAgent, ManufacturingStrategyAgent, IndustrialAutomationAnalysisAgent, IndustrialRoboticsAnalysisAgent",50.00%,16.67%
+T7,"ResearchAgent, RiskAgent, StrategyAgent","RiskAgent, AutomotiveCybersecurityRiskAgent, AICybersecurityResearchAgent, MarketAnalysisAgent",50.00%,25.00%
+T8,"ResearchAgent, RiskAgent, StrategyAgent","RiskAgent, FintechMarketResearchAgent, StrategyAgent, MarketAnalysisAgent",50.00%,25.00%
+T9,"ResearchAgent, RiskAgent, StrategyAgent","SemiconductorManufacturingStrategyAgent, SupplyChainRiskAnalysisAgent, RiskAgent, ManufacturingStrategyAgent, SustainableManufacturingStrategyAgent",50.00%,20.00%

@@ -1,0 +1,23 @@
+Metric,Graph-Only,GraphRAG,Improvement/Change
+Average Similarity,0.3124,0.3320,6.28%
+Average Similarity (Original Query),0.3124,0.3320,0.00%
+Average Similarity (Retrieval Query),0.3124,0.3303,0.00%
+Average Retrieval Time (ms),162.27,1488.96,817.58%
+Average Items Retrieved,28.26,37.26,31.85%
+Total Items Retrieved,763,1006,31.85%
+
+Precision@5,0.8074,0.7481,0.00%
+Precision@10,0.6889,0.7741,0.00%
+
+Recall@5,0.2802,0.2005,0.00%
+Recall@10,0.4778,0.4130,0.00%
+
+nDCG@5,0.8451,0.7927,0.00%
+nDCG@10,0.7497,0.7970,0.00%
+
+Hit@1,1.0000,1.0000,0.00%
+Hit@3,1.0000,1.0000,0.00%
+Hit@5,1.0000,1.0000,0.00%
+
+Graph Nodes,750,750,0
+Graph Relationships,1471,1471,0

@@ -1,0 +1,46 @@
+{
+  "T1": [
+    "MarketAnalysisAgent",
+    "MarketResearchAgent"
+  ],
+  "T2": [
+    "RiskAgent",
+    "BatteryRiskAnalysisAgent",
+    "SupplyChainRiskAnalysisAgent"
+  ],
+  "T3": [
+    "ResearchAgent",
+    "HealthcareAIAssessmentAgent"
+  ],
+  "T4": [
+    "RiskAgent",
+    "CloudRiskAnalysisAgent",
+    "CloudMigrationRiskAnalysisAgent"
+  ],
+  "T5": [
+    "RenewableEnergyAnalysisAgent",
+    "MarketAnalysisAgent"
+  ],
+  "T6": [
+    "ResearchAgent",
+    "IndustrialRoboticsRiskAnalysisAgent"
+  ],
+  "T7": [
+    "RiskAgent",
+    "AutomotiveCybersecurityRiskAgent",
+    "AICybersecurityResearchAgent"
+  ],
+  "T8": [
+    "MarketAnalysisAgent",
+    "FintechMarketResearchAgent"
+  ],
+  "T9": [
+    "RiskAgent",
+    "SupplyChainRiskAnalysisAgent"
+  ],
+  "T10": [
+    "StrategyAgent",
+    "SustainableManufacturingStrategyAgent",
+    "ManufacturingStrategyAgent"
+  ]
+}

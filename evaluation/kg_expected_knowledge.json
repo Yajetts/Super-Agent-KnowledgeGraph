@@ -1,0 +1,62 @@
+{
+  "T1": {
+    "task": "Analyze EV market opportunities in Europe",
+    "expected_concepts": ["EV", "electric vehicle", "Europe", "market", "opportunities", "automotive"],
+    "expected_domains": ["EV", "Automotive", "Market Analysis"],
+    "expected_keywords": ["ev", "electric", "vehicle", "europe", "market", "opportunity"]
+  },
+  "T2": {
+    "task": "Assess risks associated with next-generation EV battery supply chains",
+    "expected_concepts": ["battery", "EV", "supply chain", "risk", "manufacturing", "lithium"],
+    "expected_domains": ["EV", "Battery", "Supply Chain", "Risk"],
+    "expected_keywords": ["battery", "ev", "supply", "chain", "risk", "manufacturing"]
+  },
+  "T3": {
+    "task": "Evaluate AI adoption opportunities in healthcare organizations",
+    "expected_concepts": ["AI", "healthcare", "adoption", "opportunities", "medical", "diagnostics"],
+    "expected_domains": ["AI", "Healthcare", "Technology"],
+    "expected_keywords": ["ai", "healthcare", "adoption", "opportunity", "medical"]
+  },
+  "T4": {
+    "task": "Assess cloud migration risks for a healthcare provider",
+    "expected_concepts": ["cloud", "migration", "risk", "healthcare", "data security", "compliance"],
+    "expected_domains": ["Cloud", "Healthcare", "Risk", "Security"],
+    "expected_keywords": ["cloud", "migration", "risk", "healthcare", "security"]
+  },
+  "T5": {
+    "task": "Analyze renewable energy investment opportunities in emerging markets",
+    "expected_concepts": ["renewable energy", "investment", "emerging markets", "solar", "wind", "finance"],
+    "expected_domains": ["Renewable Energy", "Investment", "Finance"],
+    "expected_keywords": ["renewable", "energy", "investment", "emerging", "market", "solar", "wind"]
+  },
+  "T6": {
+    "task": "Evaluate industrial robotics deployment in manufacturing facilities",
+    "expected_concepts": ["robotics", "manufacturing", "automation", "deployment", "industrial", "efficiency"],
+    "expected_domains": ["Robotics", "Manufacturing", "Automation"],
+    "expected_keywords": ["robotics", "manufacturing", "automation", "deployment", "industrial"]
+  },
+  "T7": {
+    "task": "Assess cybersecurity threats facing connected and autonomous vehicles",
+    "expected_concepts": ["cybersecurity", "autonomous vehicles", "connected vehicles", "threat", "security", "hacking"],
+    "expected_domains": ["Cybersecurity", "Automotive", "Security"],
+    "expected_keywords": ["cybersecurity", "autonomous", "vehicle", "connected", "threat", "security"]
+  },
+  "T8": {
+    "task": "Analyze fintech expansion opportunities in Southeast Asia",
+    "expected_concepts": ["fintech", "expansion", "Southeast Asia", "digital payments", "banking", "finance"],
+    "expected_domains": ["Fintech", "Finance", "Technology"],
+    "expected_keywords": ["fintech", "expansion", "southeast", "asia", "payment", "banking"]
+  },
+  "T9": {
+    "task": "Evaluate supply chain vulnerabilities in semiconductor manufacturing",
+    "expected_concepts": ["supply chain", "semiconductor", "manufacturing", "vulnerability", "chip", "electronics"],
+    "expected_domains": ["Supply Chain", "Semiconductor", "Manufacturing"],
+    "expected_keywords": ["supply", "chain", "semiconductor", "manufacturing", "vulnerability", "chip"]
+  },
+  "T10": {
+    "task": "Develop a sustainable manufacturing strategy for a multinational company",
+    "expected_concepts": ["sustainable", "manufacturing", "strategy", "multinational", "ESG", "environmental"],
+    "expected_domains": ["Manufacturing", "Sustainability", "Strategy"],
+    "expected_keywords": ["sustainable", "manufacturing", "strategy", "multinational", "esg", "environmental"]
+  }
+}

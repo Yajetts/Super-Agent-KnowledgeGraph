@@ -1,0 +1,11 @@
+task_id,expected_agents,selected_agents,asa_score,saur_score
+T1,"MarketAnalysisAgent, MarketResearchAgent","MarketAnalysisAgent, MarketResearchAgent, MarketAnalysisAgent, FintechMarketResearchAgent, MarketTrendAnalysisAgent",100.00%,100.00%
+T10,"StrategyAgent, SustainableManufacturingStrategyAgent, ManufacturingStrategyAgent","SustainableManufacturingStrategyAgent, ManufacturingStrategyAgent, SemiconductorManufacturingStrategyAgent, ResearchAgent, StrategyAgent",100.00%,60.00%
+T2,"RiskAgent, BatteryRiskAnalysisAgent, SupplyChainRiskAnalysisAgent","BatteryRiskAnalysisAgent, BatterySafetyAgent, RiskAgent, SupplyChainRiskAnalysisAgent",100.00%,75.00%
+T3,"ResearchAgent, HealthcareAIAssessmentAgent","ResearchAgent, HealthcareAIAssessmentAgent, HealthcareAIAnalysisAgent, HealthcareAIGovernanceAgent, HealthcareAIPolicyAnalysisAgent",100.00%,80.00%
+T4,"RiskAgent, CloudRiskAnalysisAgent, CloudMigrationRiskAnalysisAgent","HealthcareCloudRiskAnalysisAgent, CloudMigrationRiskAnalysisAgent, RiskAgent, HealthcareAIAssessmentAgent, CloudRiskAnalysisAgent",100.00%,80.00%
+T5,"RenewableEnergyAnalysisAgent, MarketAnalysisAgent","EmergingMarketsInvestmentAnalysisAgent, RenewableEnergyMarketAnalysisAgent, RenewableEnergyAnalysisAgent, RiskAgent, MarketAnalysisAgent",100.00%,80.00%
+T6,"ResearchAgent, IndustrialRoboticsRiskAnalysisAgent","IndustrialRoboticsAnalysisAgent, IndustrialRoboticsRiskAnalysisAgent, ResearchAgent, IndustrialAutomationRiskAnalysisAgent, ManufacturingStrategyAgent",100.00%,80.00%
+T7,"RiskAgent, AutomotiveCybersecurityRiskAgent, AICybersecurityResearchAgent","RiskAgent, AutomotiveCybersecurityRiskAgent, AICybersecurityResearchAgent, MarketAnalysisAgent",100.00%,75.00%
+T8,"MarketAnalysisAgent, FintechMarketResearchAgent","RiskAgent, FintechMarketResearchAgent, StrategyAgent, MarketAnalysisAgent",100.00%,50.00%
+T9,"RiskAgent, SupplyChainRiskAnalysisAgent","SemiconductorManufacturingStrategyAgent, SupplyChainRiskAnalysisAgent, RiskAgent, ManufacturingStrategyAgent, SustainableManufacturingStrategyAgent",100.00%,80.00%
